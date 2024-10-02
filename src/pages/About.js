@@ -21,7 +21,7 @@ const AboutTitle = styled.h2`
 export default function About() {
   return (
     <AboutContainer>
-      <AboutTitle>About This App</AboutTitle>
+      <AboutTitle>Sobre o aplicativo</AboutTitle>
       <AboutText>
         Uma galeria de fotos interativa que permite aos usuários explorar uma
         vasta coleção de imagens de alta qualidade, obtidas diretamente da API
